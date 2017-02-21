@@ -11,7 +11,7 @@
 |
 */
 $app->get('/', function () use ($app) {
-    return 'Muito obrigado por utilizar este software. Para mais informações acesse: <a href="">http://</a>';
+    return 'Muito obrigado por utilizar este software. Para mais informações acesse: <a href="https://github.com/thiagoprz/busca_cep">https://github.com/thiagoprz/busca_cep</a>';
 });
 $app->group(['prefix' => 'api/v1'], function($app) {
     $app->get('/', 'CepController@index');

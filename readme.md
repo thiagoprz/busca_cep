@@ -1,5 +1,6 @@
 # Busca CEP
 Projeto com o fim de disponibilizar informações de CEP sobre logradouros e cidades em uma api simplificada.
+* Framework utilizado: **Lumen**
 
 ## Banco de Dados
 O banco de dados atualmente é formado por 3 entidades, sendo elas: **estado**, **cidade** e **cep**.
