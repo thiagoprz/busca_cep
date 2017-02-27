@@ -25,8 +25,9 @@ Para instalar basta configurar o ambiente criando o arquivo **.env** com base no
 * PDO PHP Extension
 * Mbstring PHP Extension
 
-## Demo
-Em breve será disponibilizado um ambiente de demonstração hospedada no Heroku.
+## Dados de demonstração
+No seguinte [link](https://drive.google.com/open?id=0B-U3nRKvcWHjN0V6RDRpeWl4cTA) é possível baixar um arquivo **SQL** com os inserts de dados para testar o uso da API, nele estão contidos ceps de todos os estados e cidades que consegui obter.
+[Dados de Exemplo.sql](https://drive.google.com/open?id=0B-U3nRKvcWHjN0V6RDRpeWl4cTA)
 
 ## Licença
 
