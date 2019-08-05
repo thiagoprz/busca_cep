@@ -32,3 +32,7 @@ No seguinte [link](https://drive.google.com/open?id=0B-U3nRKvcWHjN0V6RDRpeWl4cTA
 ## Licença
 
 Licenciado sobre a licença [MIT license](http://opensource.org/licenses/MIT)
+
+## Innovation Award June 2019 - PHPClasses
+[https://www.phpclasses.org/package/11256-PHP-API-to-search-for-Brazilian-zip-codes.html](https://www.phpclasses.org/package/11256-PHP-API-to-search-for-Brazilian-zip-codes.html)
+![Innovation Award](https://www.phpclasses.org/award/innovation/nominee.gif)
